@@ -14,6 +14,8 @@ public class App {
             i++;
             System.out.println(i++);
             System.out.println(i);
+            System.out.printf("%d",i);
+            scanner.close();
     }
     
     }
